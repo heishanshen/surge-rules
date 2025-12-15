@@ -1,4 +1,9 @@
-# Special Direct Rules
-# 强制直连 / 特殊站点
+# PT直连规则
 
 DOMAIN-SUFFIX,iptorrents.com
+DOMAIN-SUFFIX,leaves.red
+DOMAIN-SUFFIX,hdatmos.club
+DOMAIN-SUFFIX,iptorrents.com
+DOMAIN-SUFFIX,hhclub.top
+DOMAIN-SUFFIX,pttime.top
+
