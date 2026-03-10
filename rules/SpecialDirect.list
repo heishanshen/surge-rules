@@ -8,7 +8,17 @@ DOMAIN-SUFFIX,hhclub.top
 DOMAIN-SUFFIX,pttime.top
 DOMAIN-SUFFIX,lemonhd.club
 
+# 书源
+DOMAIN-SUFFIX,yuancang.cc
+DOMAIN-SUFFIX,vip.gyks.cf
+DOMAIN-SUFFIX,full.gxom.cn
+DOMAIN-SUFFIX,full.gxom.click
+DOMAIN-SUFFIX,full.gxom.cc.cd
+DOMAIN-SUFFIX,full.gxom.de5.net
+DOMAIN-SUFFIX,full.gxom.us.ci
+DOMAIN-SUFFIX,full.gxom.cn.mt
+DOMAIN-SUFFIX,full.gxom.bbroot.com
+
 # other
 DOMAIN-SUFFIX,macked.app
-DOMAIN-SUFFIX,yuancang.cc
 
