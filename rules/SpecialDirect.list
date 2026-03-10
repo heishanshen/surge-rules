@@ -1,5 +1,6 @@
-# PT直连规则
+# 直连规则
 
+# PT
 DOMAIN-SUFFIX,iptorrents.com
 DOMAIN-SUFFIX,leaves.red
 DOMAIN-SUFFIX,hdatmos.club
