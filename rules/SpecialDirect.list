@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,hhclub.top
 DOMAIN-SUFFIX,pttime.top
 DOMAIN-SUFFIX,lemonhd.club
 
+# 星眠
+DOMAIN-SUFFIX,reading.sunianxincue.love
+
 # 书源
 #DOMAIN-SUFFIX,yuancang.cc
 #DOMAIN-SUFFIX,vip.gyks.cf
@@ -19,7 +22,6 @@ DOMAIN-SUFFIX,lemonhd.club
 #DOMAIN-SUFFIX,full.gxom.us.ci
 #DOMAIN-SUFFIX,full.gxom.cn.mt
 #DOMAIN-SUFFIX,full.gxom.bbroot.com
-DOMAIN-SUFFIX,reading.sunianxincue.love
 
 # other
 DOMAIN-SUFFIX,macked.app
